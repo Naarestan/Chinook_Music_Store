@@ -94,3 +94,4 @@ AND C.Country = 'Canada'\
 GROUP BY C.City\
 ORDER BY Total DESC;\
 }
+
